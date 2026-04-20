@@ -1,3 +1,4 @@
+//Phase2: all tests passing, screenshots done
 //"Phase2: handle nested directories
 //Phase2: handle flat directory case
 //Phase2: implement recursive tree building

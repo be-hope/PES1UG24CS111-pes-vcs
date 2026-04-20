@@ -1,3 +1,4 @@
+/// Build header: "<type> <size>"
 // object.c — Content-addressable object store
 
 #include "pes.h"

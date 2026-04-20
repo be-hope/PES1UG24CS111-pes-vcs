@@ -1,3 +1,4 @@
+/// All tests passing
 /// Read object and verify integrity
 /// Write object to temp file and rename atomically
 /// Build header: "<type> <size>"

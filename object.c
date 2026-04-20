@@ -1,3 +1,5 @@
+
+/// Write object to temp file and rename atomically
 /// Build header: "<type> <size>"
 // object.c — Content-addressable object store
 

@@ -1,3 +1,4 @@
+//index_loaded
 //index_load
 #include "index.h"
 #include <stdio.h>

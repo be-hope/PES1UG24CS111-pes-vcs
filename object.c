@@ -12,7 +12,7 @@
 #include <openssl/evp.h>
 
 // ─── PROVIDED FUNCTIONS ─────────────────────────────────────────────
-
+/// Compute SHA256 and check if object already exists
 void hash_to_hex(const ObjectID *id, char *hex_out) {
     for (int i = 0; i < HASH_SIZE; i++) {
         sprintf(hex_out + (i * 2), "%02x", id->hash[i]);

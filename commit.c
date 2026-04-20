@@ -1,4 +1,4 @@
-
+//writing commitx
 //add parentt linking
 //phase 4
 // commit.c — Commit creation and history traversal

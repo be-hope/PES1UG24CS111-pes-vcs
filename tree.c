@@ -1,3 +1,4 @@
+//Phase2: handle flat directory case
 //Phase2: implement recursive tree building
 // tree.c — Tree object serialization and construction
 //
